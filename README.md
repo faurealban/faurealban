@@ -5,8 +5,8 @@ I am a French cybersecurity student also interested in video games and worldbuil
 
 ## Main quests
 - Worldbuilding and writing
-- Coding a [video game](https://github.com/klast-lab)
-- Arch rice
+- Coding a video game
+- Arch ricing
 
 ## Side quests
 - Rewriting university assignments in Rust
